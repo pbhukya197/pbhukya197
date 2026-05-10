@@ -1,29 +1,62 @@
 <h1 align="center">Hi 👋, I'm Bhukya Praveen</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot | Cloud & Full Stack Enthusiast
+🚀 Java Backend Developer | Spring Boot | Cloud & Full Stack Enthusiast
 </h3>
 
 <p align="center">
-🚀 Passionate Java Backend Developer from India focused on building scalable, secure, and modern backend applications.
+Passionate about building scalable backend systems, secure REST APIs, and modern full-stack applications.
 </p>
 
+---
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Cloud+%26+Full+Stack+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Expert;REST+API+Developer;Cloud+%26+Microservices+Enthusiast;React+%2B+Spring+Boot+Developer;AWS+%7C+Docker+%7C+Kubernetes" />
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pbhukya197&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+```java
+public class BhukyaPraveen {
+
+    String role = "Java Backend Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "MySQL",
+        "MongoDB"
+    };
+
+    String currentFocus = "Scalable Full Stack Applications";
+
+    String funFact = "I love turning ideas into scalable applications 🚀";
+}
+```
 
 - 🔭 Currently working on **Full Stack Applications using React + Spring Boot**
 - 🌱 Learning **Microservices, AWS Cloud, Docker & Kubernetes**
 - 👯 Open to collaborate on **Java / Backend / Cloud Projects**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL & AWS**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, JWT, MySQL & AWS**
+- ⚡ Strong interest in **System Design & Scalable Backend Systems**
 - 📫 Reach me at **pbhukya197@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into scalable applications 😄**
 
 ---
 
@@ -32,40 +65,72 @@ Java Backend Developer | Spring Boot | Cloud & Full Stack Enthusiast
 <p align="center">
 
 <a href="https://github.com/pbhukya197" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="https://linkedin.com/in/bhukya-praveen-1a2913226" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://hackerrank.com/h2100031318" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank/white" height="48" width="48"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 <a href="https://leetcode.com/bhukyapraveen0606" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/white" height="48" width="48"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
+</a>
+
+<a href="https://hackerrank.com/h2100031318" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="55"/>
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/bhukya_praveen_0606" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/white" height="48" width="48"/>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="55"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Languages and Tools
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,tailwind,mysql,mongodb,postgres,redis,aws,docker,kubernetes,kafka,git,github,postman,vscode,idea" />
+## 👨‍💻 Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,kotlin" />
 
 ---
 
-# 🚀 Current Focus
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+
+---
+
+## 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+
+---
+
+## 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+
+---
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka" />
+
+---
+
+## 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+
+</div>
+
+---
+
+# 📈 Current Focus
 
 <div align="center">
 
@@ -74,14 +139,47 @@ Java Backend Developer | Spring Boot | Cloud & Full Stack Enthusiast
 | Full Stack Development | Microservices |
 | Spring Boot REST APIs | AWS Cloud |
 | JWT Authentication | Docker & Kubernetes |
-| Scalable Backend Systems | DSA in Java |
+| Scalable Backend Systems | System Design |
+| Clean Architecture | DSA in Java |
 
 </div>
 
 ---
 
-# ⚡ Quote
+# 🧠 Coding Profiles
 
-<p align="center">
-<i>"First, solve the problem. Then, write the code."</i> 🚀
-</p>
+<div align="center">
+
+<a href="https://leetcode.com/bhukyapraveen0606">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://hackerrank.com/h2100031318">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/bhukya_praveen_0606">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Developer Quote
+
+<div align="center">
+
+### ✨ “First, solve the problem. Then, write the code.” ✨
+
+</div>
+
+---
+
+<h3 align="center">
+💻 Thanks for visiting my profile 🚀
+</h3>
+
+<h4 align="center">
+⭐ Don't forget to star your favorite repositories ⭐
+</h4>
