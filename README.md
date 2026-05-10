@@ -1,53 +1,49 @@
 <h1 align="center">Hi 👋, I'm Bhukya Praveen</h1>
 
 <h3 align="center">
-🚀 Java Backend Developer | Spring Boot | Cloud & Full Stack Enthusiast
+☕ Java Developer | Spring Boot Engineer | Backend & Cloud Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems, secure REST APIs, and modern full-stack applications.
+Passionate about building scalable Java applications, secure REST APIs, and enterprise backend systems.
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Expert;REST+API+Developer;Cloud+%26+Microservices+Enthusiast;React+%2B+Spring+Boot+Developer;AWS+%7C+Docker+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=F89820&center=true&vCenter=true&width=950&lines=Java+Developer;Spring+Boot+Backend+Engineer;REST+API+Developer;Microservices+%26+Cloud+Enthusiast;React+%2B+Spring+Boot+Developer;AWS+%7C+Docker+%7C+Kubernetes" />
 </p>
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pbhukya197&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 💫 About Me
+# ☕ About Me
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ```java
 public class BhukyaPraveen {
 
-    String role = "Java Backend Developer";
+    private final String role = "Java Backend Developer";
 
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "REST APIs",
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "MySQL",
-        "MongoDB"
+    private final String[] technologies = {
+            "Java",
+            "Spring Boot",
+            "Hibernate",
+            "REST APIs",
+            "React",
+            "MySQL",
+            "MongoDB",
+            "AWS",
+            "Docker",
+            "Kubernetes"
     };
 
-    String currentFocus = "Scalable Full Stack Applications";
+    private final String currentFocus =
+            "Building scalable full stack applications";
 
-    String funFact = "I love turning ideas into scalable applications 🚀";
+    public void solveProblems() {
+        System.out.println("Turning ideas into scalable software 🚀");
+    }
 }
 ```
 
@@ -94,13 +90,13 @@ public class BhukyaPraveen {
 
 ## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,kotlin" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
 ---
 
 ## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" />
 
 ---
 
